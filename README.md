@@ -52,11 +52,6 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 Não há instalação!
 Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
-
-## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
-
-
 ## 📌 Divisão de Tarefas
 Para garantir que todas as atividades sejam concluídas de forma eficiente, a divisão de tarefas será feita da seguinte maneira:
 
