@@ -56,7 +56,8 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 ## 📋 Licença/License
 Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
 
-📌 Divisão de Tarefas
+
+##📌 Divisão de Tarefas
 Para garantir que todas as atividades sejam concluídas de forma eficiente, a divisão de tarefas será feita da seguinte maneira:
 
 ✅ Planejamento e Organização – Responsável por definir metas, prazos e garantir que tudo esteja em ordem.
