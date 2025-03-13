@@ -56,6 +56,23 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 ## 📋 Licença/License
 Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
 
+📌 Divisão de Tarefas
+Para garantir que todas as atividades sejam concluídas de forma eficiente, a divisão de tarefas será feita da seguinte maneira:
+
+✅ Planejamento e Organização – Responsável por definir metas, prazos e garantir que tudo esteja em ordem.
+
+🎨 Design e Arte – Criação dos visuais, personagens, cenários e interface do jogo.
+
+💻 Programação e Desenvolvimento – Implementação do código, mecânicas do jogo e correção de bugs.
+
+🎼 Trilha Sonora e Efeitos – Desenvolvimento da música e dos sons para imersão no jogo.
+
+📝 Roteiro e Narrativa – Escrita da história, diálogos e construção do universo do jogo.
+
+🔍 Testes e Ajustes – Identificação de erros, equilíbrio da jogabilidade e melhorias gerais.
+
+
+
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
