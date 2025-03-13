@@ -21,11 +21,11 @@
 
 No coração de um vilarejo assolado pela doença, a esperança se esvai a cada dia. O mal se alastra silencioso, levando os mais fracos e consumindo até mesmo os guerreiros mais resistentes. Nenhuma erva, feitiço ou reza foi capaz de conter a praga. Quando tudo parece perdido, uma antiga lenda ressurge nos sussurros dos mais velhos: as Fadas da Esperança, seres místicos que guardam o segredo da cura, ocultas no coração da temida Floresta Obscura.
 
-Diz-se que nenhum mortal ousa atravessar a floresta e retornar ileso. As árvores sussurram segredos sombrios, criaturas da noite espreitam na escuridão e o próprio caminho se perde para aqueles que entram sem um coração puro. Mesmo assim, Eldon, um jovem mago aprendiz, decide arriscar tudo por seu povo.
+Diz-se que nenhum mortal ousa atravessar a floresta e retornar ileso. As árvores sussurram segredos sombrios, criaturas da noite espreitam na escuridão e o próprio caminho se perde para aqueles que entram sem um coração puro. Mesmo assim, Edalyn, uma jovem maga aprendiz, decide arriscar tudo por seu povo.
 
-Guiado apenas por um grimório ancestral e sua própria determinação, ele adentra a Floresta Obscura, onde terá que enfrentar desafios além da magia—ilusões traiçoeiras, espíritos esquecidos e guardiões das trevas que protegem o segredo das fadas. Apenas aqueles que provarem sua coragem, sabedoria e compaixão poderão alcançar o coração da floresta, onde as fadas repousam em seu santuário encantado.
+Guiada apenas por um grimório ancestral e sua própria determinação, ela adentra a Floresta Obscura, onde terá que enfrentar desafios além da magia—ilusões traiçoeiras, espíritos esquecidos e guardiões das trevas que protegem o segredo das fadas. Apenas aqueles que provarem sua coragem, sabedoria e compaixão poderão alcançar o coração da floresta, onde as fadas repousam em seu santuário encantado.
 
-Mas o tempo se esgota. O vilarejo definha a cada dia. Eldon precisará ser forte, ou se perderá para sempre entre as sombras da floresta.
+Mas o tempo se esgota. O vilarejo definha a cada dia. Edalyn precisará ser forte, ou se perderá para sempre entre as sombras da floresta.
 
 # 🚀 Tecnologias Utilizadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
