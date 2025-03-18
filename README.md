@@ -19,7 +19,7 @@
 ## Descrição
 
 
-No coração de um vilarejo assolado pela doença, a esperança se esvai a cada dia. O mal se alastra silencioso, levando os mais fracos e consumindo até mesmo os guerreiros mais resistentes. Nenhuma erva, feitiço ou reza foi capaz de conter a praga. Quando tudo parece perdido, uma antiga lenda ressurge nos sussurros dos mais velhos: as Fadas da Esperança, seres místicos que guardam o segredo da cura, ocultas no coração da temida Floresta Obscura.
+No coração de um vilarejo assolado pela doença, a esperança se esvai a cada dia. O mal se alastra silencioso, levando os mais fracos e consumindo até mesmo os guerreiros mais resistentes. Nenhuma erva, feitiço ou reza foi capaz de conter a praga. Quando tudo parece perdido, uma antiga lenda ressurge de dentro de antigos pergaminhos: as Fadas Curandeiras, seres místicos que guardam o segredo da cura, ocultas no coração da temida Floresta Obscura.
 
 Diz-se que nenhum mortal ousa atravessar a floresta e retornar ileso. As árvores sussurram segredos sombrios, criaturas da noite espreitam na escuridão e o próprio caminho se perde para aqueles que entram sem um coração puro. Mesmo assim, Edalyn, uma jovem maga aprendiz, decide arriscar tudo por seu povo.
 
