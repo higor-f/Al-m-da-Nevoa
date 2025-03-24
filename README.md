@@ -18,10 +18,9 @@
 
 ## Descrição
 
-
-Em um vilarejo assolado por uma praga sobrenatural, você assume o papel de Edalyn, uma jovem feiticeira determinada a salvar seu povo da ruína. A maldição lançada pela Bruxa Sombria Myrtle consome Hallstatt rapidamente, e apenas você pode encontrar a cura.
-Sua jornada o levará ao coração da Floresta Obscura, um lugar repleto de perigos, criaturas mágicas e enigmas ancestrais. Lá, as lendárias Fadas Curandeiras podem ser a chave para a salvação, mas alcançá-las exigirá coragem, sabedoria e escolhas estratégicas.
-Em "Além da Névoa", você mergulhará em um mundo sombrio e imersivo onde cada decisão molda seu destino, desde enfrentar criaturas misteriosas e superar desafios mortais com magia e astúcia até decifrar enigmas ancestrais que testarão sua sabedoria. Suas ações estratégicas não apenas acumularão pontos, mas também desbloquearão finais únicos, garantindo que cada escolha - seja um ato de coragem ou um momento de cautela - tenha consequências profundas em sua jornada para salvar o vilarejo de Hallstatt.
+   Em um vilarejo assolado por uma praga sobrenatural, você assume o papel de Edalyn, uma jovem feiticeira determinada a salvar seu povo da ruína. A maldição lançada pela Bruxa Sombria Myrtle consome Hallstatt rapidamente, e apenas você pode encontrar a cura.
+   Sua jornada o levará ao coração da Floresta Obscura, um lugar repleto de perigos, criaturas mágicas e enigmas ancestrais. Lá, as lendárias Fadas Curandeiras podem ser a chave para a salvação, mas alcançá-las exigirá coragem, sabedoria e escolhas estratégicas.
+   Em "Além da Névoa", você mergulhará em um mundo sombrio e imersivo onde cada decisão molda seu destino, desde enfrentar criaturas misteriosas e superar desafios mortais com magia e astúcia até decifrar enigmas ancestrais que testarão sua sabedoria. Suas ações estratégicas não apenas acumularão pontos, mas também desbloquearão finais únicos, garantindo que cada escolha - seja um ato de coragem ou um momento de cautela - tenha consequências profundas em sua jornada para salvar o vilarejo de Hallstatt.
 
 # 🚀 Tecnologias Utilizadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
@@ -35,22 +34,22 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 -Além da Nevoa<br>
     &emsp;&emsp;|-->Assets<br>
-        &emsp;&emsp;|-->fadas.png<br>
-        &emsp;&emsp;|-->floresta_maligna.jpg<br>
-        &emsp;&emsp;|-->personagem.png<br>
-        &emsp;&emsp;|-->vilarejo.jpg<br>
+        &emsp;&emsp;&emsp;|-->fadas.png<br>
+        &emsp;&emsp;&emsp;|-->floresta_maligna.jpg<br>
+        &emsp;&emsp;&emsp;|-->personagem.png<br>
+        &emsp;&emsp;&emsp;|-->vilarejo.jpg<br>
         |<br>
     &emsp;&emsp;|-->Arquivos JS<br>
-        &emsp;&emsp;|-->api.js<br>
-        &emsp;&emsp;|-->estilo.js<br>
-        &emsp;&emsp;|-->fases.js<br>
-        &emsp;&emsp;|-->game.js<br>
-        &emsp;&emsp;|-->storage.js<br>
+        &emsp;&emsp;&emsp;|-->api.js<br>
+        &emsp;&emsp;&emsp;|-->estilo.js<br>
+        &emsp;&emsp;&emsp;|-->fases.js<br>
+        &emsp;&emsp;&emsp;|-->game.js<br>
+        &emsp;&emsp;&emsp;|-->storage.js<br>
         |<br>
     &emsp;&emsp;|-->Arquivos HTML<br>
-        &emsp;&emsp;|-->game.html<br>
-        &emsp;&emsp;|-->Game_over.html<br>
-        &emsp;&emsp;|-->Pag_Inicial.html<br>
+        &emsp;&emsp;&emsp;|-->game.html<br>
+        &emsp;&emsp;&emsp;|-->Game_over.html<br>
+        &emsp;&emsp;&emsp;|-->Pag_Inicial.html<br>
         |<br>
     &emsp;&emsp;|-->Style.CSS<br>
     |<br>
