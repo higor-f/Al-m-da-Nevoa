@@ -18,9 +18,9 @@
 
 ## Descrição
 
-   Em um vilarejo assolado por uma praga sobrenatural, você assume o papel de Edalyn, uma jovem feiticeira determinada a salvar seu povo da ruína. A maldição lançada pela Bruxa Sombria Myrtle consome Hallstatt rapidamente, e apenas você pode encontrar a cura.
-   Sua jornada o levará ao coração da Floresta Obscura, um lugar repleto de perigos, criaturas mágicas e enigmas ancestrais. Lá, as lendárias Fadas Curandeiras podem ser a chave para a salvação, mas alcançá-las exigirá coragem, sabedoria e escolhas estratégicas.
-   Em "Além da Névoa", você mergulhará em um mundo sombrio e imersivo onde cada decisão molda seu destino, desde enfrentar criaturas misteriosas e superar desafios mortais com magia e astúcia até decifrar enigmas ancestrais que testarão sua sabedoria. Suas ações estratégicas não apenas acumularão pontos, mas também desbloquearão finais únicos, garantindo que cada escolha - seja um ato de coragem ou um momento de cautela - tenha consequências profundas em sua jornada para salvar o vilarejo de Hallstatt.
+<p>Em um vilarejo assolado por uma praga sobrenatural, você assume o papel de Edalyn, uma jovem feiticeira determinada a salvar seu povo da ruína. A maldição lançada pela Bruxa Sombria Myrtle consome Hallstatt rapidamente, e apenas você pode encontrar a cura.
+<p>Sua jornada o levará ao coração da Floresta Obscura, um lugar repleto de perigos, criaturas mágicas e enigmas ancestrais. Lá, as lendárias Fadas Curandeiras podem ser a chave para a salvação, mas alcançá-las exigirá coragem, sabedoria e escolhas estratégicas.
+<p>Em "Além da Névoa", você mergulhará em um mundo sombrio e imersivo onde cada decisão molda seu destino, desde enfrentar criaturas misteriosas e superar desafios mortais com magia e astúcia até decifrar enigmas ancestrais que testarão sua sabedoria. Suas ações estratégicas não apenas acumularão pontos, mas também desbloquearão finais únicos, garantindo que cada escolha - seja um ato de coragem ou um momento de cautela - tenha consequências profundas em sua jornada para salvar o vilarejo de Hallstatt.
 
 # 🚀 Tecnologias Utilizadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
