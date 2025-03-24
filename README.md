@@ -30,6 +30,24 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 🌐 Gerenciamento de Estado: Context API<br>
 🔧 Outras Ferramentas: ESLint, Prettier, Live Server<br>
 
+🚀 **Guia do Jogo**  
+
+**Começando:**  
+- Clique em "Iniciar Jogo" na tela inicial.  
+- Você começa com **0 pontos** e pode ganhar ou perder ao longo da jornada.  
+- Siga as instruções e escolha entre as opções para avançar na história.  
+
+**Tomando Decisões:**  
+- Suas escolhas influenciam a pontuação e o rumo da história.  
+- Algumas decisões podem te fazer ganhar pontos, enquanto outras podem reduzi-los.  
+- Dependendo do caminho que você escolher, seu personagem pode não sobreviver.  
+
+**Desafios e Enigmas:**  
+- Durante o jogo, você enfrentará enigmas sorteados **aleatoriamente por uma API**.  
+
+**Desfecho:**  
+- O jogo possui múltiplos finais, dependendo das suas escolhas e pontuação.
+
 ## 🛠 Estrutura de pastas
 
 -Além da Nevoa<br>
