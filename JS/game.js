@@ -25,33 +25,32 @@ function atualizarUI(fase) {
 
         // Chama a API para pegar os enigmas aleatórios
         fetch('http://localhost:3000/enigmas')
-            .then(response => {
-                console.log("Resposta da API recebida:", response);
-                return response.json();
-            })
+            .then(response => response.json()) // Converte a resposta para JSON
             .then(enigmasAleatorios => {
                 console.log("Enigmas aleatórios recebidos:", enigmasAleatorios);
-                // Verifica se a resposta da API tem enigmas
-                if (enigmasAleatorios.length > 0) {
-                    // Cria as opções de resposta usando os enigmas aleatórios
-                    enigmasAleatorios.forEach((enigma, index) => {
+
+                // Seleciona o enigma da tela 20
+                const enigmaTela20 = enigmasAleatorios.find(enigma => enigma.texto === fase.texto);
+
+                // Verifica se o enigma da Tela 20 foi encontrado
+                if (enigmaTela20) {
+                    // Cria as opções de resposta para o enigma
+                    enigmaTela20.respostas.forEach((opcao, index) => {
                         const botao = document.createElement('button');
-                        botao.textContent = enigma.texto;
+                        botao.textContent = opcao.texto;
                         botao.classList.add('enigma');
                         botao.addEventListener('click', () => {
-                            enigma.respostas.forEach(opcao => {
-                                if (opcao.respostaCorreta) {
-                                    pontuacao += opcao.pontuacao; // Atualiza a pontuação
-                                    telaAtual = opcao.proximaTela; // Atualiza a próxima tela
-                                }
-                            });
+                            if (opcao.respostaCorreta) {
+                                pontuacao += opcao.pontuacao; // Atualiza a pontuação
+                                telaAtual = opcao.proximaTela; // Atualiza a próxima tela
+                            }
                             salvarProgresso({ tela: telaAtual, pontuacao }); // Salva o progresso
                             atualizarUI(fases[telaAtual]); // Atualiza a interface
                         });
                         opcoesDiv.appendChild(botao);
                     });
                 } else {
-                    console.error("Nenhum enigma recebido da API");
+                    console.error("Enigma não encontrado para a Tela 20");
                 }
             })
             .catch(error => {
@@ -66,7 +65,7 @@ function atualizarUI(fase) {
             botao.classList.add('opcao');
             botao.addEventListener('click', () => {
                 telaAtual = opcao.proximaTela; // Atualiza a tela atual
-                pontuacao += opcao.pontuacao ||  0; // Soma a pontuação da escolha
+                pontuacao += opcao.pontuacao || 0; // Soma a pontuação da escolha
                 salvarProgresso({ tela: telaAtual, pontuacao }); // Salva o progresso
                 atualizarUI(fases[telaAtual]); // Atualiza a interface
             });
@@ -91,3 +90,4 @@ function atualizarUI(fase) {
 
 // Inicia o jogo
 atualizarUI(fases[telaAtual]);
+
