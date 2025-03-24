@@ -23,7 +23,7 @@
 <p>Em "Além da Névoa", você mergulhará em um mundo sombrio e imersivo onde cada decisão molda seu destino, desde enfrentar criaturas misteriosas e superar desafios mortais com magia e astúcia até decifrar enigmas ancestrais que testarão sua sabedoria. Suas ações estratégicas não apenas acumularão pontos, mas também desbloquearão finais únicos, garantindo que cada escolha - seja um ato de coragem ou um momento de cautela - tenha consequências profundas em sua jornada para salvar o vilarejo de Hallstatt.
 
 🚀 **Guia do Jogo**  
-
+Este é um jogo textual, onde suas escolhas moldam a história e determinam seu destino.
 **Começando:**  
 - Clique em "Iniciar Jogo" na tela inicial.  
 - Você começa com **0 pontos** e pode ganhar ou perder ao longo da jornada.  
