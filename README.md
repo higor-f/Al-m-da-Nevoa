@@ -28,7 +28,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ⚡ Frontend: HTML + CSS<br>
 ⚙ Backend: JavaScript<br>
 🌐 Gerenciamento de Estado: Context API<br>
-🔧 Outras Ferramentas: ESLint, Prettier, PostCSS<br>
+🔧 Outras Ferramentas: ESLint, Prettier, Live Server<br>
 
 ## 🛠 Estrutura de pastas
 
