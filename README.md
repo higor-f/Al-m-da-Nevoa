@@ -19,13 +19,9 @@
 ## Descrição
 
 
-No coração de um vilarejo assolado pela doença, a esperança se esvai a cada dia. O mal se alastra silencioso, levando os mais fracos e consumindo até mesmo os guerreiros mais resistentes. Nenhuma erva, feitiço ou reza foi capaz de conter a praga. Quando tudo parece perdido, uma antiga lenda ressurge de dentro de antigos pergaminhos: as Fadas Curandeiras, seres místicos que guardam o segredo da cura, ocultas no coração da temida Floresta Obscura.
-
-Diz-se que nenhum mortal ousa atravessar a floresta e retornar ileso. As árvores sussurram segredos sombrios, criaturas da noite espreitam na escuridão e o próprio caminho se perde para aqueles que entram sem um coração puro. Mesmo assim, Edalyn, uma jovem maga aprendiz, decide arriscar tudo por seu povo.
-
-Guiada apenas por um grimório ancestral e sua própria determinação, ela adentra a Floresta Obscura, onde terá que enfrentar desafios além da magia—ilusões traiçoeiras, espíritos esquecidos e guardiões das trevas que protegem o segredo das fadas. Apenas aqueles que provarem sua coragem, sabedoria e compaixão poderão alcançar o coração da floresta, onde as fadas repousam em seu santuário encantado.
-
-Mas o tempo se esgota. O vilarejo definha a cada dia. Edalyn precisará ser forte, ou se perderá para sempre entre as sombras da floresta.
+Em um vilarejo assolado por uma praga sobrenatural, você assume o papel de Edalyn, uma jovem feiticeira determinada a salvar seu povo da ruína. A maldição lançada pela Bruxa Sombria Myrtle consome Hallstatt rapidamente, e apenas você pode encontrar a cura.
+Sua jornada o levará ao coração da Floresta Obscura, um lugar repleto de perigos, criaturas mágicas e enigmas ancestrais. Lá, as lendárias Fadas Curandeiras podem ser a chave para a salvação, mas alcançá-las exigirá coragem, sabedoria e escolhas estratégicas.
+Em "Além da Névoa", você mergulhará em um mundo sombrio e imersivo onde cada decisão molda seu destino, desde enfrentar criaturas misteriosas e superar desafios mortais com magia e astúcia até decifrar enigmas ancestrais que testarão sua sabedoria. Suas ações estratégicas não apenas acumularão pontos, mas também desbloquearão finais únicos, garantindo que cada escolha - seja um ato de coragem ou um momento de cautela - tenha consequências profundas em sua jornada para salvar o vilarejo de Hallstatt.
 
 # 🚀 Tecnologias Utilizadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
@@ -38,14 +34,26 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## 🛠 Estrutura de pastas
 
 -Além da Nevoa<br>
-    &emsp;&emsp;|-->Index.HTML<br>
+    &emsp;&emsp;|-->Assets<br>
+        &emsp;&emsp;|-->fadas.png<br>
+        &emsp;&emsp;|-->floresta_maligna.jpg<br>
+        &emsp;&emsp;|-->personagem.png<br>
+        &emsp;&emsp;|-->vilarejo.jpg<br>
+        |<br>
+    &emsp;&emsp;|-->Arquivos JS<br>
+        &emsp;&emsp;|-->api.js<br>
+        &emsp;&emsp;|-->estilo.js<br>
+        &emsp;&emsp;|-->fases.js<br>
+        &emsp;&emsp;|-->game.js<br>
+        &emsp;&emsp;|-->storage.js<br>
+        |<br>
+    &emsp;&emsp;|-->Arquivos HTML<br>
+        &emsp;&emsp;|-->game.html<br>
+        &emsp;&emsp;|-->Game_over.html<br>
+        &emsp;&emsp;|-->Pag_Inicial.html<br>
+        |<br>
     &emsp;&emsp;|-->Style.CSS<br>
-    &emsp;&emsp;|-->Logica.js<br>
     |<br>
-|-->Imagens<br>
-    &emsp;&emsp;|-->Imagem 1<br>
-    &emsp;&emsp;|-->Imagem 2<br>
-    &emsp;&emsp;|-->Imagem 3<br>
 
 ## 🛠 Instalação
 
