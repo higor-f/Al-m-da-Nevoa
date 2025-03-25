@@ -1,4 +1,4 @@
-# Além-da-Nevoa
+# Além da Nevoa
 
 </p>
 
@@ -8,7 +8,8 @@
 ## Professor Orientador:  <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>
 
 <p align="center">
-<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
+<a href= "https://www.fecap.br/"><img src="https://drive.google.com/uc?id=1e5rWxQKe4fyM2_fdEC5hbbV-laEJlW8u
+" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 
 ## Descrição
 
