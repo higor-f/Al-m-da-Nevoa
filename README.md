@@ -2,7 +2,7 @@
 
 </p>
 
-## Integrantes: <a href=https://www.linkedin.com/in/estherolvr/>Esther Oliveira Costa</a> e <a href=https://www.linkedin.com/in/higor-fonseca-santos/>Higor Fonseca </a>
+## Colaboradores: <a href=https://www.linkedin.com/in/estherolvr/>Esther Oliveira Costa</a> e <a href=https://www.linkedin.com/in/higor-fonseca-santos/>Higor Fonseca </a>
  
 
 ## Professor Orientador:  <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>
