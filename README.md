@@ -1,12 +1,6 @@
 # Além-da-Nevoa
 
-# FECAP - Fundação de Comércio Álvares Penteado
-
-
 </p>
-
-# Além da Nevoa
-
 
 ## Integrantes: <a href=https://www.linkedin.com/in/estherolvr/>Esther Oliveira Costa</a> e <a href=https://www.linkedin.com/in/higor-fonseca-santos/>Higor Fonseca </a>
  
