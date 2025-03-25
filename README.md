@@ -1,4 +1,4 @@
-<center># Além da Nevoa</center>
+# Além da Nevoa
 
 </p>
 
