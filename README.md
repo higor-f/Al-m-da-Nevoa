@@ -8,8 +8,7 @@
 ## Professor Orientador:  <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>
 
 <p align="center">
-<a href= "https://www.fecap.br/"><img src="https://drive.google.com/uc?id=1e5rWxQKe4fyM2_fdEC5hbbV-laEJlW8u
-" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
+<a href= "https://www.fecap.br/"><img src="https://drive.google.com/uc?id=1e5rWxQKe4fyM2_fdEC5hbbV-laEJlW8u" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 
 ## Descrição
 
