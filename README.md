@@ -61,10 +61,9 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
         &emsp;&emsp;&emsp;|-->game.js<br>
         &emsp;&emsp;&emsp;|-->storage.js<br>
         |<br>
-    &emsp;&emsp;|-->Arquivos HTML<br>
-        &emsp;&emsp;&emsp;|-->game.html<br>
-        &emsp;&emsp;&emsp;|-->Game_over.html<br>
-        &emsp;&emsp;&emsp;|-->Pag_Inicial.html<br>
+        &emsp;&emsp;|-->game.html<br>
+        &emsp;&emsp;|-->Game_over.html<br>
+        &emsp;&emsp;|-->Pag_Inicial.html<br>
         |<br>
     &emsp;&emsp;|-->Style.CSS<br>
     |<br>
