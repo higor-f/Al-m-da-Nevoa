@@ -64,6 +64,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
         &emsp;&emsp;|-->game.html<br>
         &emsp;&emsp;|-->Game_over.html<br>
         &emsp;&emsp;|-->Pag_Inicial.html<br>
+        &emsp;&emsp;|-->introdução.html<br>
         |<br>
     &emsp;&emsp;|-->Style.CSS<br>
     |<br>
