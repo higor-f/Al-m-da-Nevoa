@@ -67,11 +67,11 @@ Este é um jogo textual em que suas **escolhas** irão definir o futuro de Edaly
 
 ---
 
-## ** 🎲Enigmas Aleatórios com API Random.org
+##  🎲Enigmas Aleatórios com API Random.org
 
 Para garantir que cada jogada seja única, integramos a API do Random.org, um serviço que gera números verdadeiramente aleatórios usando ruído atmosférico. Isso significa que os enigmas e eventos do jogo são sempre imprevisíveis, tornando cada partida uma experiência diferente.
 
-## ** Como funciona?
+## Como funciona?
 
 -O jogo consulta a API para sortear números dentro de um intervalo definido.
 
@@ -79,7 +79,7 @@ Para garantir que cada jogada seja única, integramos a API do Random.org, um se
 
 -Se a API estiver indisponível, o jogo usa um gerador local como alternativa.
 
-## ** Por que usamos isso?
+##  Por que usamos isso?
 
 Justiça: Nenhum jogador terá os mesmos desafios em partidas diferentes.
 
