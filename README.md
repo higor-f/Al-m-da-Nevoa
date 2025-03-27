@@ -1,100 +1,105 @@
-# Além da Nevoa
+# **Além da Névoa** 🌫️
 
-</p>
+**Mergulhe em uma jornada cheia de mistérios e escolhas. Será você capaz de salvar o vilarejo de Hallstatt?**
 
-## Colaboradores: <a href=https://www.linkedin.com/in/estherolvr/>Esther Oliveira Costa</a> e <a href=https://www.linkedin.com/in/higor-fonseca-santos/>Higor Fonseca </a>
- 
+---
 
-## Professor Orientador:  <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>
+## **🎮 Colaboradores**
+- **Esther Oliveira Costa** - [LinkedIn](https://www.linkedin.com/in/estherolvr/)
+- **Higor Fonseca** - [LinkedIn](https://www.linkedin.com/in/higor-fonseca-santos/)
+
+## **📚 Professor Orientador**
+- **Francisco de Souza Escobar** - [LinkedIn](https://www.linkedin.com/in/francisco-escobar/)
 
 <p align="center">
-<a href= "https://www.fecap.br/"><img src="https://drive.google.com/uc?id=1e5rWxQKe4fyM2_fdEC5hbbV-laEJlW8u" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
+  <a href="https://www.fecap.br/">
+    <img src="https://drive.google.com/uc?id=1e5rWxQKe4fyM2_fdEC5hbbV-laEJlW8u" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0">
+  </a>
+</p>
 
-## Descrição
+---
 
-<p>Em um vilarejo assolado por uma praga sobrenatural, você assume o papel de Edalyn, uma jovem feiticeira determinada a salvar seu povo da ruína. A maldição lançada pela Bruxa Sombria Myrtle consome Hallstatt rapidamente, e apenas você pode encontrar a cura.
-<p>Sua jornada o levará ao coração da Floresta Obscura, um lugar repleto de perigos, criaturas mágicas e enigmas ancestrais. Lá, as lendárias Fadas Curandeiras podem ser a chave para a salvação, mas alcançá-las exigirá coragem, sabedoria e escolhas estratégicas.
-<p>Em "Além da Névoa", você mergulhará em um mundo sombrio e imersivo onde cada decisão molda seu destino, desde enfrentar criaturas misteriosas e superar desafios mortais com magia e astúcia até decifrar enigmas ancestrais que testarão sua sabedoria. Suas ações estratégicas não apenas acumularão pontos, mas também desbloquearão finais únicos, garantindo que cada escolha - seja um ato de coragem ou um momento de cautela - tenha consequências profundas em sua jornada para salvar o vilarejo de Hallstatt.
+## **🌟 Descrição**
 
-🚀 **Guia do Jogo**  
-Este é um jogo textual, onde suas escolhas moldam a história e determinam seu destino.
-**Começando:**  
-- Clique em "Iniciar Jogo" na tela inicial.  
-- Você começa com **0 pontos** e pode ganhar ou perder ao longo da jornada.  
-- Siga as instruções e escolha entre as opções para avançar na história.  
+"Além da Névoa" é um jogo de aventura onde você assume o papel de **Edalyn**, uma jovem feiticeira em uma missão para salvar seu vilarejo, Hallstatt, de uma praga sobrenatural lançada pela **Bruxa Sombria Myrtle**. Você será desafiado a explorar a **Floresta Obscura**, onde criaturas mágicas e enigmas ancestrais guardam o caminho para a cura.
 
-**Tomando Decisões:**  
-- Suas escolhas influenciam a pontuação e o rumo da história.  
-- Algumas decisões podem te fazer ganhar pontos, enquanto outras podem reduzi-los.  
-- Dependendo do caminho que você escolher, seu personagem pode não sobreviver.  
+### **Sua Jornada:**
+- Enfrentar perigos e criaturas místicas.
+- Decidir entre coragem e cautela, com consequências profundas para seu destino.
+- Resolver enigmas sorteados aleatoriamente por uma **API externa**, que testarão sua inteligência e habilidade.
+- Explorar diferentes caminhos que podem levar a finais diversos.
 
-**Desafios e Enigmas:**  
-- Durante o jogo, você enfrentará enigmas sorteados **aleatoriamente por uma API**.  
+### **Escolhas que Moldam o Destino:**
+- Cada decisão altera o rumo da história e sua pontuação. O que você escolhe pode determinar a sobrevivência de Edalyn e o futuro de Hallstatt.
+- **Múltiplos finais**: O jogo oferece diferentes desfechos, baseados nas suas escolhas e pontuação.
 
-**Desfecho:**  
-- O jogo possui múltiplos finais, dependendo das suas escolhas e pontuação.
+---
 
+## **🚀 Como Jogar**
 
-# 🚀 Tecnologias Utilizadas
+Este é um jogo textual em que suas **escolhas** irão definir o futuro de Edalyn e seu vilarejo. Prepare-se para momentos emocionantes, onde a estratégia e a sabedoria serão suas melhores aliadas.
+
+### **Começando:**
+- Clique em "Iniciar Jogo" na tela inicial.
+- Você começa com **0 pontos** e pode ganhar ou perder ao longo da jornada.
+- Escolha suas opções sabiamente para avançar na história e desbloquear finais secretos!
+
+### **Tomando Decisões:**
+- Cada escolha impacta sua pontuação e o rumo da história.
+- Algumas opções podem ajudá-lo a avançar, outras podem colocar tudo a perder!
+
+### **Desafios e Enigmas:**
+- Prepare-se para **enigmas aleatórios**, sorteados por uma **API externa**. Eles testarão sua sabedoria e sua capacidade de resolver mistérios.
+
+---
+
+## **💻 Tecnologias Utilizadas**
+
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-⚡ Frontend: HTML + CSS<br>
-⚙ Backend: JavaScript<br>
-🌐 Gerenciamento de Estado: Context API<br>
-🔧 Outras Ferramentas: ESLint, Prettier, Live Server<br>
+- **Frontend**: HTML + CSS
+- **Backend**: JavaScript
+- **Gerenciamento de Estado**: Context API
+- **Ferramentas Adicionais**: ESLint, Prettier, Live Server
 
+---
 
+## **📂 Estrutura de Pastas**
 
-## 🛠 Estrutura de pastas
+Além da Névoa ├── Assets │ ├── fadas.png │ ├── floresta_maligna.jpg │ ├── personagem.png │ ├── vilarejo.jpg ├── Arquivos JS │ ├── api.js │ ├── estilo.js │ ├── fases.js │ ├── game.js │ ├── storage.js ├── game.html ├── Game_over.html ├── Pag_Inicial.html ├── introdução.html ├── style.css
 
--Além da Nevoa<br>
-    &emsp;&emsp;|-->Assets<br>
-        &emsp;&emsp;&emsp;|-->fadas.png<br>
-        &emsp;&emsp;&emsp;|-->floresta_maligna.jpg<br>
-        &emsp;&emsp;&emsp;|-->personagem.png<br>
-        &emsp;&emsp;&emsp;|-->vilarejo.jpg<br>
-        |<br>
-    &emsp;&emsp;|-->Arquivos JS<br>
-        &emsp;&emsp;&emsp;|-->api.js<br>
-        &emsp;&emsp;&emsp;|-->estilo.js<br>
-        &emsp;&emsp;&emsp;|-->fases.js<br>
-        &emsp;&emsp;&emsp;|-->game.js<br>
-        &emsp;&emsp;&emsp;|-->storage.js<br>
-        |<br>
-        &emsp;&emsp;|-->game.html<br>
-        &emsp;&emsp;|-->Game_over.html<br>
-        &emsp;&emsp;|-->Pag_Inicial.html<br>
-        &emsp;&emsp;|-->introdução.html<br>
-        |<br>
-    &emsp;&emsp;|-->Style.CSS<br>
-    |<br>
+yaml
+Copiar
+Editar
 
-## 🛠 Instalação
+---
 
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+## **⚙️ Instalação**
 
-## 📌 Divisão de Tarefas
-Para garantir que todas as atividades sejam concluídas de forma eficiente, a divisão de tarefas será feita da seguinte maneira:
+Não há necessidade de instalação! Basta seguir os seguintes passos:
 
-✅ Planejamento e Organização – Responsável por definir metas, prazos e garantir que tudo esteja em ordem.
+1. Abra o arquivo `index.html` na pasta executáveis.
+2. Execute-o em seu **navegador** de preferência e comece sua jornada!
 
-🎨 Design e Arte – Criação dos visuais, personagens, cenários e interface do jogo.
+---
 
-💻 Programação e Desenvolvimento – Implementação do código, mecânicas do jogo e correção de bugs.
+## **🔧 Divisão de Tarefas**
 
-🎼 Trilha Sonora e Efeitos – Desenvolvimento da música e dos sons para imersão no jogo.
+A divisão das responsabilidades no projeto foi feita para garantir eficiência e qualidade no desenvolvimento:
 
-📝 Roteiro e Narrativa – Escrita da história, diálogos e construção do universo do jogo.
+- **✅ Planejamento e Organização**: Definição de metas e prazos.
+- **🎨 Design e Arte**: Criação dos visuais, personagens, cenários e interface.
+- **💻 Programação e Desenvolvimento**: Implementação do código e mecânicas.
+- **🎼 Trilha Sonora e Efeitos**: Desenvolvimento de sons e música imersiva.
+- **📝 Roteiro e Narrativa**: Escrita da história e diálogos.
+- **🔍 Testes e Ajustes**: Identificação de erros e ajustes de jogabilidade.
 
-🔍 Testes e Ajustes – Identificação de erros, equilíbrio da jogabilidade e melhorias gerais.
+---
 
+## **🎓 Referências**
 
+Agradecemos às fontes e materiais que nos ajudaram a construir este projeto:
 
-## 🎓 Referências
-
-Aqui estão as referências usadas no projeto.
-
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://chooser-beta.creativecommons.org/>
+1. [Template de README - iuricode](https://github.com/iuricode/readme-template)
+2. [Modelo de README - gabrieldejesus](https://github.com/gabrieldejesus/readme-model)
+3. [Creative Commons - Chooser](https://chooser-beta.creativecommons.org/)
