@@ -38,6 +38,17 @@
 
 ---
 
+## **✨ Finais**
+
+1. **Final 1**: Edalyn consegue curar toda a população do vilarejo com a poção, e todos se recuperam completamente. Ela salva o vilarejo e é lembrada como a heroína que salvou todos do extermínio.
+
+2. **Final 2**: Edalyn falha em sua missão e assiste impotente ao declínio de seu vilarejo. A maldição toma seu corpo, e ela sucumbe à sensação de insuficiência e fracasso.
+
+3. **Final 3**: Edalyn decide continuar sua busca, determinada a encontrar outra forma de salvar a vila. A jornada ainda não acabou, e novas aventuras a aguardam.
+
+
+---
+
 ## **🚀 Como Jogar**
 
 Este é um jogo textual em que suas **escolhas** irão definir o futuro de Edalyn e seu vilarejo. Prepare-se para momentos emocionantes, onde a estratégia e a sabedoria serão suas melhores aliadas.
