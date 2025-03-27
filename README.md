@@ -71,21 +71,21 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
         &emsp;&emsp;&emsp;|-->floresta_maligna.jpg<br>
         &emsp;&emsp;&emsp;|-->personagem.png<br>
         &emsp;&emsp;&emsp;|-->vilarejo.jpg<br>
-        |<br>
+        <br>
     &emsp;&emsp;|-->Arquivos JS<br>
         &emsp;&emsp;&emsp;|-->api.js<br>
         &emsp;&emsp;&emsp;|-->estilo.js<br>
         &emsp;&emsp;&emsp;|-->fases.js<br>
         &emsp;&emsp;&emsp;|-->game.js<br>
         &emsp;&emsp;&emsp;|-->storage.js<br>
-        |<br>
+        <br>
         &emsp;&emsp;|-->game.html<br>
         &emsp;&emsp;|-->Game_over.html<br>
         &emsp;&emsp;|-->Pag_Inicial.html<br>
         &emsp;&emsp;|-->introdução.html<br>
-        |<br>
+        <br>
     &emsp;&emsp;|-->Style.CSS<br>
-    |<br>
+    <br>
 
 ## **⚙️ Instalação**
 
