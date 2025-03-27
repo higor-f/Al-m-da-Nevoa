@@ -1,5 +1,5 @@
 
-  #**Além da Névoa** 🌫️
+## **Além da Névoa** 🌫️
 
 
 **Mergulhe em uma jornada cheia de mistérios e escolhas. Será você capaz de salvar o vilarejo de Hallstatt?**
