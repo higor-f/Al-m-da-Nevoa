@@ -66,8 +66,6 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## **📂 Estrutura de Pastas**
 
-## **📂 Estrutura de Pastas**
-
 - **Além da Névoa**
     - **Assets**
         - fadas.png
