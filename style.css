@@ -1,0 +1,282 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Cinzel', serif; 
+    font-size: 54px; 
+    font-weight: bold;
+}
+
+
+
+
+/* Contêiner da tela do jogo */
+.tela-jogo {
+    background: url('assets/vilarejo.jpg') no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 100px;
+    border-radius: 15px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-family: 'Cinzel', serif; 
+    font-size: 18px;
+    background: #ffcc00;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #28a745;
+}
+
+
+/* Contêiner preto com certa tranparencia */
+.container-introducao {
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 60vh;
+    width: 80%;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+}
+
+/* Ajuste do título */
+.titulo-introducao {
+    font-family: 'Cinzel', serif; 
+    margin-bottom: 20px;
+}
+
+/* Texto digitado */
+.texto-introducao {
+    font-family: 'Cinzel', serif; 
+    font-size: 18px;
+    max-width: 90%;
+    margin-top: 10px;
+    text-align: center;
+    line-height: 1.6;
+    white-space: pre-line; /* Mantém as quebras de linha */
+}
+
+
+/* Botão de jogar */
+.botao-jogar {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 5px;
+    display: none;
+}
+
+.botao-jogar:hover {
+    background-color: #218838;
+}
+
+
+
+/* Esconde elementos quando necessário */
+.hidden {
+    display: none;
+}
+
+/* Tela de Game Over centralizada e estilizada */
+/* Tela de Game Over centralizada no meio da tela */
+.game-over-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    height: 50%;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    transform: translate(-50%, -50%); 
+    border-radius: 10px; /* Opcional: arredonda as bordas */
+}
+
+
+/* Título do Game Over */
+.game-over-container h1 {
+    font-family: 'Cinzel', serif;
+    font-size: 7rem;
+    color: white;
+  
+}
+
+/* Texto informativo sinalizando que o jogar morreu e nao salvou seu povo*/
+.game-over-container p {
+    font-size: 1.0rem;
+    margin: 10px 0;
+}
+
+/* Botões de interação */
+.game-over-container button {
+    background-color: #ffcc00c1;
+    color: white;
+    border: none;
+    padding: 15px 20px;
+    margin: 10px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+/* Efeito ao passar o mouse nos botões */
+.game-over-container button:hover {
+    background: #218838;
+}
+
+
+/* Imagem lateral (ao lado esquerdo do placar) */
+.imagem-lateral {
+    position: fixed;
+    top: 20px; /* Distância do topo */
+    left: 270px; /* Distância da borda esquerda da tela */
+    z-index: 10; /* Garante que a imagem esteja acima dos outros elementos */
+}
+
+.imagem-lateral img {
+    max-width: 180px; /* Ajuste o tamanho da imagem conforme necessário */
+    height: auto;
+}
+
+
+
+/* Imagem lateral (ao lado direito do placar) */
+.imagem-lateral-direita {
+    position: fixed;
+    top: 20px; /* Distância do topo */
+    right: 180px; /* Distância da borda direita da tela */
+    z-index: 10; /* Garante que a imagem esteja acima dos outros elementos */
+}
+
+.imagem-lateral-direita img {
+    max-width: 240px; /* Ajuste o tamanho da imagem conforme necessário */
+    height: auto;
+}
+
+
+/* Contêiner do placar */
+.placar {
+    position: fixed;
+    top: 20px; /* Distância do topo */
+    left: 50%;
+    transform: translateX(-50%); /* Centraliza horizontalmente */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 600px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.8); /* Fundo semi-transparente */
+    border: 2px solid #444;
+    border-radius: 10px;
+    box-shadow: 0 0 0px rgba(224, 158, 2, 0.97);
+    z-index: 10; /* Garante que o placar ficará acima de outros elementos */
+}
+
+/* Estilo dos textos */
+.lado-esquerdo, .meio, .lado-direito {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Lado esquerdo (Nome "Edalyn") */
+.lado-esquerdo {
+    text-align: left;
+    font-family: 'Cinzel', serif; 
+}
+
+/* Meio (Texto "Além da Névoa") */
+.meio {
+    font-family: 'Cinzel', serif; 
+    text-align: center;
+    font-size: 28px;
+    color: #ffcc00; /* Cor destacada */
+}
+
+/* Lado direito (Pontos) */
+.lado-direito {
+    text-align: right;
+    font-family: 'Cinzel', serif; 
+}
+
+
+
+/* Contêiner do jogo com imagem de fundo */
+.game-container {
+    background-image: url(assets/floresta_maligna.jpg); /* Substitua pelo caminho correto da sua imagem */
+    background-size: cover; /* A imagem cobre toda a tela */
+    background-position: center; /* Centraliza a imagem */
+    background-attachment: fixed; /* Mantém a imagem fixa ao rolar a página */
+    height: 100vh; /* O contêiner vai ocupar toda a altura da tela */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+/* Bloco de Texto Narrativo */
+#narrativa {
+    font-family: 'Cinzel', serif;
+    font-size: 20px;
+    padding: 60px;
+    background-color: rgba(0, 0, 0, 0.8); /* Fundo semi-transparente */
+    border-radius: 10px;
+    margin-bottom: 20px; /* Espaço entre o texto e os botões */
+    color: #fff; /* Define a cor do texto como branca */
+}
+
+/* Opções (Botões) */
+#opcoes {
+    display: flex; /* Flexbox para dispor os botões em linha */
+    justify-content: center; /* Centraliza os botões na tela */
+    gap: 20px; /* Espaçamento entre os botões */
+    margin-top: 30px;
+}
+
+button {
+    background-color: #ffcc00c0;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #cc9900;
+}
+
