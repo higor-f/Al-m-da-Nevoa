@@ -66,11 +66,24 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## **📂 Estrutura de Pastas**
 
-Além da Névoa ├── Assets │ ├── fadas.png │ ├── floresta_maligna.jpg │ ├── personagem.png │ ├── vilarejo.jpg ├── Arquivos JS │ ├── api.js │ ├── estilo.js │ ├── fases.js │ ├── game.js │ ├── storage.js ├── game.html ├── Game_over.html ├── Pag_Inicial.html ├── introdução.html ├── style.css
+- Além da Névoa
+    ├── Assets
+    │   ├── fadas.png
+    │   ├── floresta_maligna.jpg
+    │   ├── personagem.png
+    │   ├── vilarejo.jpg
+    ├── Arquivos JS
+    │   ├── api.js
+    │   ├── estilo.js
+    │   ├── fases.js
+    │   ├── game.js
+    │   ├── storage.js
+    ├── game.html
+    ├── Game_over.html
+    ├── Pag_Inicial.html
+    ├── introdução.html
+    ├── style.css
 
-yaml
-Copiar
-Editar
 
 ---
 
