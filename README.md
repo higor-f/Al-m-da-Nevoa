@@ -65,24 +65,27 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ---
 
 ## 🛠 Estrutura de pastas
-Além da Névoa<br>
-&nbsp;&nbsp;|--&emsp;&emsp;|-->Assets<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;|-->fadas.png<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;|-->floresta_maligna.jpg<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;|-->personagem.png<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;|-->vilarejo.jpg<br>
-&nbsp;&nbsp;|--&emsp;&emsp;|-->Arquivos JS<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;|-->api.js<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;|-->estilo.js<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;|-->fases.js<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;|-->game.js<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;|-->storage.js<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;|<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;|-->game.html<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;|-->Game_over.html<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;|-->Pag_Inicial.html<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;|-->introdução.html<br>
-&nbsp;&nbsp;|--&emsp;&emsp;|-->style.css<br>
+ -Além da Nevoa<br>
+    &emsp;&emsp;|-->Assets<br>
+        &emsp;&emsp;&emsp;|-->fadas.png<br>
+        &emsp;&emsp;&emsp;|-->floresta_maligna.jpg<br>
+        &emsp;&emsp;&emsp;|-->personagem.png<br>
+        &emsp;&emsp;&emsp;|-->vilarejo.jpg<br>
+        |<br>
+    &emsp;&emsp;|-->Arquivos JS<br>
+        &emsp;&emsp;&emsp;|-->api.js<br>
+        &emsp;&emsp;&emsp;|-->estilo.js<br>
+        &emsp;&emsp;&emsp;|-->fases.js<br>
+        &emsp;&emsp;&emsp;|-->game.js<br>
+        &emsp;&emsp;&emsp;|-->storage.js<br>
+        |<br>
+        &emsp;&emsp;|-->game.html<br>
+        &emsp;&emsp;|-->Game_over.html<br>
+        &emsp;&emsp;|-->Pag_Inicial.html<br>
+        &emsp;&emsp;|-->introdução.html<br>
+        |<br>
+    &emsp;&emsp;|-->Style.CSS<br>
+    |<br>
 
 ## **⚙️ Instalação**
 
