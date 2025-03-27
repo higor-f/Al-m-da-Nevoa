@@ -65,28 +65,27 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ---
 
 ## 🛠 Estrutura de pastas
-
-    - <strong>Além da Névoa</strong><br>
-        &emsp;&emsp;|-->Assets<br>
-        &emsp;&emsp;&emsp;|-->fadas.png<br>
-        &emsp;&emsp;&emsp;|-->floresta_maligna.jpg<br>
-        &emsp;&emsp;&emsp;|-->personagem.png<br>
-        &emsp;&emsp;&emsp;|-->vilarejo.jpg<br>
-        &emsp;&emsp;|<br>
-        &emsp;&emsp;|-->Arquivos JS<br>
+ -Além da Nevoa<br>
+ |  &emsp;&emsp;|-->Assets<br>
+ |     &emsp;&emsp;&emsp;|-->fadas.png<br>
+ |     &emsp;&emsp;&emsp;|-->floresta_maligna.jpg<br>
+ |      &emsp;&emsp;&emsp;|-->personagem.png<br>
+ |     &emsp;&emsp;&emsp;|-->vilarejo.jpg<br>
+        |<br>
+    &emsp;&emsp;|-->Arquivos JS<br>
         &emsp;&emsp;&emsp;|-->api.js<br>
         &emsp;&emsp;&emsp;|-->estilo.js<br>
         &emsp;&emsp;&emsp;|-->fases.js<br>
         &emsp;&emsp;&emsp;|-->game.js<br>
         &emsp;&emsp;&emsp;|-->storage.js<br>
-        &emsp;&emsp;|<br>
+        |<br>
         &emsp;&emsp;|-->game.html<br>
         &emsp;&emsp;|-->Game_over.html<br>
         &emsp;&emsp;|-->Pag_Inicial.html<br>
         &emsp;&emsp;|-->introdução.html<br>
-        &emsp;&emsp;|<br>
-        &emsp;&emsp;|-->style.css<br>
----
+        |<br>
+    &emsp;&emsp;|-->Style.CSS<br>
+    |<br>
 
 ## **⚙️ Instalação**
 
