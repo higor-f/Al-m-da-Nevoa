@@ -105,7 +105,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 Não há necessidade de instalação! Basta seguir os seguintes passos:
 
-1. Abra o arquivo `index.html` na pasta executáveis.
+1. Abra o arquivo `Pag-inicial.html` na pasta executáveis.
 2. Execute-o em seu **navegador** de preferência e comece sua jornada!
 
 ---
