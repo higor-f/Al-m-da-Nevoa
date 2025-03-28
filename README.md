@@ -79,7 +79,7 @@ Para garantir que cada jogada seja única, integramos a API do Random.org, um se
 
 -Se a API estiver indisponível, o jogo usa um gerador local como alternativa.
 
-##  Por que usamos isso?
+##  Por que usamos?
 
 Justiça: Nenhum jogador terá os mesmos desafios em partidas diferentes.
 
