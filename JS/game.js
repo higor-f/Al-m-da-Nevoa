@@ -51,14 +51,18 @@ async function atualizarUI(fase) {
         if (telaAtual === "Tela 23") {
             botaoReiniciar.textContent = "Parabéns, Edalyn! Você conseguiu. Jogar novamente";
             botaoReiniciar.addEventListener('click', () => {
-                window.location.href = "game.html"; // Redireciona para a tela inicial do jogo
+                pontuacao = 0; // Reseta a pontuação
+                telaAtual = "Tela 1"; // Volta para a primeira tela
+                salvarProgresso({ tela: telaAtual, pontuacao }); // Salva o progresso reiniciado
+                window.location.href = "game.html"; // Redireciona para o jogo
             });
         } else {
             botaoReiniciar.textContent = "Você fracassou.";
             botaoReiniciar.addEventListener('click', () => {
-                window.location.href = "Game-over.html"; // Redireciona para a página de Game Over
                 pontuacao = 0; // Zera a pontuação
-                salvarProgresso({ tela: "Game-over.html", pontuacao }); // Salva o progresso do reinício
+                telaAtual = "Tela 1"; // Reinicia a tela
+                salvarProgresso({ tela: telaAtual, pontuacao }); // Salva o progresso reiniciado
+                window.location.href = "Game-over.html"; // Redireciona para a página de Game Over
             });
         }
 
@@ -68,3 +72,4 @@ async function atualizarUI(fase) {
 
 // Inicia o jogo carregando a tela atual
 atualizarUI(fases[telaAtual]);
+
