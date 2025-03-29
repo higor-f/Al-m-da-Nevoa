@@ -149,8 +149,7 @@ Não há necessidade de instalação! Basta seguir os seguintes passos:
 📌 **Higor**  
 - Implementou a estilização dos textos, incluindo tamanhos e espaçamentos para melhor leitura.  
 - Ajustou o layout dos elementos para que as telas tivessem uma aparência harmônica.  
-- Criou animações sutis para transições entre fases e efeitos visuais nas escolhas.  
-
+ 
 ---
 
 ### 💻 Programação & Lógica (`game.js`, `fases.js`, `storage.js`, `api.js`)  
