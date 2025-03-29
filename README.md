@@ -142,7 +142,7 @@ Não há necessidade de instalação! Basta seguir os seguintes passos:
 ### 🎨 Interface & Estilização (`style.css`, HTML)  
 
 📌 **Esther**  
-- Criou a estilização das páginas principais (`game.html`, `introdução.html`, `game-over.html`).  
+- Criou a estilização das páginas principais, criação de container e entre outros elementos (`game.html`, `introdução.html`, `game-over.html`).  
 - Definiu a paleta de cores e fontes do jogo para manter um visual imersivo.  
 - Estilizou os botões de escolha para garantir acessibilidade e usabilidade.  
 
