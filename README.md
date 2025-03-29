@@ -137,8 +137,6 @@ Não há necessidade de instalação! Basta seguir os seguintes passos:
 
 ## 🔧 Divisão de Tarefas  
 
-O desenvolvimento do jogo **"Além da Névoa"** foi realizado em dupla, com **Higor e Esther** dividindo as responsabilidades para garantir um jogo coeso, interativo e visualmente atraente.  
-
 ---
 
 ### 🎨 Interface & Estilização (`style.css`, HTML)  
