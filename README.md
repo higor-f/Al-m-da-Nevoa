@@ -194,10 +194,16 @@ Não há necessidade de instalação! Basta seguir os seguintes passos:
 
 ---
 
-## **🎓 Referências**
+## 🖼️ Referências de Imagens
 
-Agradecemos às fontes e materiais que nos ajudaram a construir este projeto:
+- **Floresta**: ![Floresta](https://www.maloriesadventures.com/wp-content/uploads/2023/09/randonautica-horror-stories-creepy-forest-illuminated-by-the-moon-at-night.jpeg)  
+  Fonte: [Link da imagem](https://www.maloriesadventures.com/wp-content/uploads/2023/09/randonautica-horror-stories-creepy-forest-illuminated-by-the-moon-at-night.jpeg)
+  
+- **Personagem**: ![Personagem](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee219434-7993-43a9-98d6-238ee165ae53/dg3em30-b5ddbae4-2f6a-49f6-8eba-6839177161e1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlMjE5NDM0LTc5OTMtNDNhOS05OGQ2LTIzOGVlMTY1YWU1M1wvZGczZW0zMC1iNWRkYmFlNC0yZjZhLTQ5ZjYtOGViYS02ODM5MTc3MTYxZTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qrKegeXdLUyYWkW1N55wEaYZT6b9UXkZj_DSKqhLv0I)  
+  Fonte: [Link da imagem](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee219434-7993-43a9-98d6-238ee165ae53/dg3em30-b5ddbae4-2f6a-49f6-8eba-6839177161e1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlMjE5NDM0LTc5OTMtNDNhOS05OGQ2LTIzOGVlMTY1YWU1M1wvZGczZW0zMC1iNWRkYmFlNC0yZjZhLTQ5ZjYtOGViYS02ODM5MTc3MTYxZTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qrKegeXdLUyYWkW1N55wEaYZT6b9UXkZj_DSKqhLv0I)
+  
+- **Fadas**: ![Fadas](https://www.pngmart.com/files/23/Laser-Eyes-PNG-Pic3.png)  
+  Fonte: [Link da imagem](https://www.pngmart.com/files/23/Laser-Eyes-PNG-Pic3.png)
 
-1. [Template de README - iuricode](https://github.com/iuricode/readme-template)
-2. [Modelo de README - gabrieldejesus](https://github.com/gabrieldejesus/readme-model)
-3. [Creative Commons - Chooser](https://chooser-beta.creativecommons.org/)
+- **Vilarejo**: ![Vilarejo](https://external-preview.redd.it/zgP_qA-SxzZMrv4ruWTER8H7S5_ayAuMzOHfMTSwS0k.jpg?auto=webp&s=2bfc3f359e1d7ea0540ef167f1846e204e21bdda)  
+  Fonte: [Link da imagem](https://external-preview.redd.it/zgP_qA-SxzZMrv4ruWTER8H7S5_ayAuMzOHfMTSwS0k.jpg?auto=webp&s=2bfc3f359e1d7ea0540ef167f1846e204e21bdda)
