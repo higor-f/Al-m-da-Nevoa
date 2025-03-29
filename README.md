@@ -135,72 +135,63 @@ Não há necessidade de instalação! Basta seguir os seguintes passos:
 
 ---
 
-## 🔧 Divisão de Tarefas
-O desenvolvimento do jogo "Além da Névoa" foi realizado em dupla, com Higor e Esther dividindo as responsabilidades para garantir um jogo coeso, interativo e visualmente atraente.
+## 🔧 Divisão de Tarefas  
 
-🎨 Interface & Estilização (style.css, HTML)
-📌 Esther
+O desenvolvimento do jogo **"Além da Névoa"** foi realizado em dupla, com **Higor e Esther** dividindo as responsabilidades para garantir um jogo coeso, interativo e visualmente atraente.  
 
-Criou a estilização das páginas principais (game.html, introdução.html, game-over.html).
+---
 
-Definiu a paleta de cores e fontes do jogo para manter um visual imersivo.
+### 🎨 Interface & Estilização (`style.css`, HTML)  
 
-Estilizou os botões de escolha para garantir acessibilidade e usabilidade.
+📌 **Esther**  
+- Criou a estilização das páginas principais (`game.html`, `introdução.html`, `game-over.html`).  
+- Definiu a paleta de cores e fontes do jogo para manter um visual imersivo.  
+- Estilizou os botões de escolha para garantir acessibilidade e usabilidade.  
 
-📌 higor
+📌 **Higor**  
+- Implementou a estilização dos textos, incluindo tamanhos e espaçamentos para melhor leitura.  
+- Ajustou o layout dos elementos para que as telas tivessem uma aparência harmônica.  
+- Criou animações sutis para transições entre fases e efeitos visuais nas escolhas.  
 
-Implementou a estilização dos textos, incluindo tamanhos e espaçamentos para melhor leitura.
+---
 
-Ajustou o layout dos elementos para que as telas tivessem uma aparência harmônica.
+### 💻 Programação & Lógica (`game.js`, `fases.js`, `storage.js`, `api.js`)  
 
-Criou animações sutis para transições entre fases e efeitos visuais nas escolhas.
+📌 **Esther**  
+- Programou a lógica principal do jogo em `game.js`, garantindo que as escolhas do jogador impactassem a narrativa corretamente.  
+- Criou funções para transição de fases e feedback visual ao escolher opções.  
 
-💻 Programação & Lógica (JavaScript: game.js, fases.js, storage.js, api.js)
-📌 Esther
+📌 **Higor**  
+- Desenvolveu e organizou as diferentes fases no `fases.js`, estruturando as escolhas e consequências.  
+- Ajustou a mecânica de exibição de textos e diálogos, garantindo fluidez na experiência.  
 
-Programou a lógica principal do jogo em game.js, garantindo que as escolhas do jogador impactassem a narrativa corretamente.
-Criou funções para transição de fases e feedback visual ao escolher opções.
+📌 **Ambos - Colaboração em `storage.js` & `api.js`**  
+- Trabalharam juntos no `storage.js`, garantindo que o progresso do jogador fosse salvo corretamente e pudesse ser recuperado ao retornar ao jogo.  
+- Em `api.js`, ambos colaboraram na implementação e ajustes para gerenciar possíveis interações externas, garantindo que a comunicação entre as funções ocorresse de forma eficiente.  
 
-📌 Higor
+---
 
-Desenvolveu e organizou as diferentes fases no fases.js, estruturando as escolhas e consequências.
-Ajustou a mecânica de exibição de textos e diálogos, garantindo fluidez na experiência.
+### 🎭 Narrativa & Estrutura do Jogo  
 
-📌 Ambos- Colaboração em storage.js & api.js
+📌 **Higor**  
+- Criou os cenários e a ambientação do jogo, garantindo uma imersão envolvente.  
+- Escreveu os diálogos principais entre os personagens, estruturando a progressão da história.  
 
-Ambos trabalharam no storage.js, garantindo que o progresso do jogador fosse salvo corretamente e pudesse ser recuperado ao retornar ao jogo.
+📌 **Esther**  
+- Refinou a narrativa e os detalhes emocionais das cenas, garantindo coerência com o tema do jogo.  
+- Ajustou o fluxo dos diálogos para que as transições entre cenas fossem naturais e impactantes.  
 
-Em api.js, ambos colaboraram na implementação e ajustes para gerenciar possíveis interações externas, garantindo que a comunicação entre as funções ocorresse de forma eficiente.
+---
 
+### 🔍 Testes & Ajustes Finais  
 
+📌 **Esther**  
+- Testou a mecânica das escolhas para garantir que todas as decisões levassem ao caminho correto.  
+- Corrigiu bugs relacionados ao salvamento de progresso e à transição entre fases.  
 
-
-🎭 Narrativa & Estrutura do Jogo
-📌 Higor
-
-Criou os cenários e a ambientação do jogo, garantindo uma imersão envolvente.
-
-Escreveu os diálogos principais entre os personagens, estruturando a progressão da história.
-
-📌 Esther
-
-Refinou a narrativa e os detalhes emocionais das cenas, garantindo coerência com o tema do jogo.
-
-Ajustou o fluxo dos diálogos para que as transições entre cenas fossem naturais e impactantes.
-
-
-🔍 Testes & Ajustes Finais
-📌 Esther
-
-Testou a mecânica das escolhas para garantir que todas as decisões levassem ao caminho correto.
-
-Corrigiu bugs relacionados ao salvamento de progresso e à transição entre fases.
-
-📌 higor
-
-Revisou e ajustou o layout para garantir uma experiência visual confortável.
-
-Refinou os textos e correções ortográficas para manter uma narrativa bem escrita.
+📌 **Higor**  
+- Revisou e ajustou o layout para garantir uma experiência visual confortável.  
+- Refinou os textos e fez correções ortográficas para manter uma narrativa bem escrita.  
 
 
 ---
