@@ -143,7 +143,7 @@ Não há necessidade de instalação! Basta seguir os seguintes passos:
 
 📌 **Esther**  
 - Criou a estilização das páginas principais, criação de container e entre outros elementos (`game.html`, `introdução.html`, `game-over.html`).  
-- Definiu a paleta de cores e fontes do jogo para manter um visual imersivo.  
+- Definiu a paleta de cores do jogo para manter um visual imersivo.  
 - Estilizou os botões de escolha para garantir acessibilidade e usabilidade.  
 
 📌 **Higor**  
@@ -156,7 +156,7 @@ Não há necessidade de instalação! Basta seguir os seguintes passos:
 ### 💻 Programação & Lógica (`game.js`, `fases.js`, `storage.js`, `api.js`)  
 
 📌 **Esther**  
-- Programou a lógica principal do jogo em `game.js`, garantindo que as escolhas do jogador impactassem a narrativa corretamente.  
+- Programou a lógica principal do jogo em `game.js`, garantindo que as escolhas do jogador impactassem a narrativa corretamente juntamente com a pontuação do jogador.  
 - Criou funções para transição de fases e feedback visual ao escolher opções.  
 
 📌 **Higor**  
