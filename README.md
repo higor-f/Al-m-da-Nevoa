@@ -165,7 +165,7 @@ Não há necessidade de instalação! Basta seguir os seguintes passos:
 
 📌 **Ambos - Colaboração em `storage.js` & `api.js`**  
 - Trabalharamos juntos no `storage.js`, garantindo que o progresso do jogador fosse salvo corretamente e pudesse ser recuperado ao retornar ao jogo.  
-- Em `api.js`, ambos colaboraram na implementação e ajustes para gerenciar possíveis interações externas, garantindo que a comunicação entre as funções ocorresse de forma eficiente.  
+- Em `api.js`, ambos colaboraram na implementação e ajustes para gerenciar interações externas, parte responsável por gera enigmas aleatórios.  
 
 ---
 
