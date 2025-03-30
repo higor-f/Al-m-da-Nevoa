@@ -150,7 +150,7 @@ Não há necessidade de instalação! Basta seguir os seguintes passos:
 ### 💻 Programação & Lógica (`game.js`, `fases.js`, `storage.js`, `api.js`)  
 
 📌 **Esther**  
-- Programou a lógica principal do jogo em `game.js`, garantindo que as escolhas do jogador impactassem a narrativa corretamente.  
+- Programou a lógica principal do jogo em `game.js`, garantindo que as escolhas do jogador impactassem a narrativa corretamente junto com a pontuação do jogador .  
 - Criou funções para transição de fases e feedback visual ao escolher opções.  
 
 📌 **Higor**  
