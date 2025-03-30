@@ -177,13 +177,11 @@ Não há necessidade de instalação! Basta seguir os seguintes passos:
 
 ### 🔍 Testes & Ajustes Finais  
 
-📌 **Esther**  
-- Testou a mecânica das escolhas para garantir que todas as decisões levassem ao caminho correto.  
-- Corrigiu bugs relacionados ao salvamento de progresso e à transição entre fases.  
-
-📌 **Higor**  
-- Revisou e ajustou o layout para garantir uma experiência visual confortável.  
-- Refinou os textos e fez correções ortográficas para manter uma narrativa bem escrita.
+📌 **Esther** e 📌 **Higor**  
+- Testamos as mecânicas das escolhas para garantir que todas as decisões levassem ao caminho correto.  
+- Corrigimos bugs relacionados ao salvamento de progresso e à transição entre fases.  
+- Revisamos e ajustou o layout para garantir uma experiência visual confortável.  
+- Refinamos os textos e fez correções ortográficas para manter uma narrativa bem escrita.
 ---
 
 # **🎨 Referências**
