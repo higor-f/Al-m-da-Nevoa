@@ -1,7 +1,8 @@
 <p align="center">
   <h1>Além da Névoa🌫️</h1>
 </p>
-[Jogue Agora](https://chimerical-paletas-d337ad.netlify.app/)
+
+[Jogue Aqui](https://chimerical-paletas-d337ad.netlify.app/)
 
 **Mergulhe em uma jornada cheia de mistérios e escolhas. Será você capaz de salvar o vilarejo de Hallstatt?**
 
