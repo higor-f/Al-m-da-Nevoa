@@ -1,11 +1,5 @@
-
 <p align="center">
   <h1>Além da Névoa🌫️</h1>
-  <h2>
-    <a href="https://chimerical-paletas-d337ad.netlify.app/" target="_blank">
-      🔗 Jogue aqui!
-    </a>
-  </h2>
 </p>
 
 
@@ -135,75 +129,23 @@ Não há necessidade de instalação! Basta seguir os seguintes passos:
 
 ---
 
-## 🔧 Divisão de Tarefas  
+## **🔧 Divisão de Tarefas**
+
+A divisão das responsabilidades no projeto foi feita para garantir eficiência e qualidade no desenvolvimento:
+
+- **✅ Planejamento e Organização**: Definição de metas e prazos.
+- **🎨 Design e Arte**: Criação dos visuais, personagens, cenários e interface.
+- **💻 Programação e Desenvolvimento**: Implementação do código e mecânicas.
+- **🎼 Trilha Sonora e Efeitos**: Desenvolvimento de sons e música imersiva.
+- **📝 Roteiro e Narrativa**: Escrita da história e diálogos.
+- **🔍 Testes e Ajustes**: Identificação de erros e ajustes de jogabilidade.
 
 ---
 
-### 🎨 Interface & Estilização (`style.css`, HTML)  
+## **🎓 Referências**
 
-📌 **Esther**  
-- Criou a estilização das páginas principais, criação de container e entre outros elementos (`game.html`, `introdução.html`, `game-over.html`).  
-- Definiu a paleta de cores do jogo para manter um visual imersivo.  
-- Estilizou os botões de escolha para garantir acessibilidade e usabilidade.  
+Agradecemos às fontes e materiais que nos ajudaram a construir este projeto:
 
-📌 **Higor**  
-- Implementou a estilização dos textos, incluindo tamanhos e espaçamentos para melhor leitura.  
-- Ajustou o layout dos elementos para que as telas tivessem uma aparência harmônica.  
-- Fez a estilização do placar presente em todas as paginas.  
- 
----
-
-### 💻 Programação & Lógica (`game.js`, `fases.js`, `storage.js`, `api.js`)  
-
-📌 **Esther**  
-- Programou a lógica principal do jogo em `game.js`, garantindo que as escolhas do jogador impactassem a narrativa corretamente juntamente com a pontuação do jogador.  
-- Criou funções para transição de fases e feedback visual ao escolher opções.  
-
-📌 **Higor**  
-- Desenvolveu e organizou as diferentes fases no `fases.js`, estruturando as escolhas e consequências.  
-- Ajustou a mecânica de exibição de textos e diálogos, garantindo fluidez na experiência.  
-
-📌 **Ambos - Colaboração em `storage.js` & `api.js`**  
-- Trabalharamos juntos no `storage.js`, garantindo que o progresso do jogador fosse salvo corretamente e pudesse ser recuperado ao retornar ao jogo.  
-- Em `api.js`, ambos colaboraram na implementação e ajustes para gerenciar interações externas, parte responsável por gera enigmas aleatórios.  
-
----
-
-### 🎭 Narrativa & Estrutura do Jogo  
-
-📌 **Higor**  
-- Criou os cenários e a ambientação do jogo, garantindo uma imersão envolvente.  
-- Escreveu os diálogos principais entre os personagens, estruturando a progressão da história.  
-
-📌 **Esther**  
-- Refinou a narrativa e os detalhes emocionais das cenas, garantindo coerência com o tema do jogo.  
-- Ajustou o fluxo dos diálogos para que as transições entre cenas fossem naturais e impactantes.  
-
----
-
-### 🔍 Testes & Ajustes Finais  
-
-📌 **Esther**  
-- Testou a mecânica das escolhas para garantir que todas as decisões levassem ao caminho correto.  
-- Corrigiu bugs relacionados ao salvamento de progresso e à transição entre fases.  
-
-📌 **Higor**  
-- Revisou e ajustou o layout para garantir uma experiência visual confortável.  
-- Refinou os textos e fez correções ortográficas para manter uma narrativa bem escrita.  
-
-
----
-
-## 🖼️ Referências de Imagens
-
-- **Floresta**: 
-  Fonte: [Link da imagem](https://www.maloriesadventures.com/wp-content/uploads/2023/09/randonautica-horror-stories-creepy-forest-illuminated-by-the-moon-at-night.jpeg)
-  
-- **Personagem**:
-  Fonte: [Link da imagem](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee219434-7993-43a9-98d6-238ee165ae53/dg3em30-b5ddbae4-2f6a-49f6-8eba-6839177161e1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlMjE5NDM0LTc5OTMtNDNhOS05OGQ2LTIzOGVlMTY1YWU1M1wvZGczZW0zMC1iNWRkYmFlNC0yZjZhLTQ5ZjYtOGViYS02ODM5MTc3MTYxZTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qrKegeXdLUyYWkW1N55wEaYZT6b9UXkZj_DSKqhLv0I)
-  
-- **Fadas**:
-  Fonte: [Link da imagem](https://www.pngmart.com/files/23/Laser-Eyes-PNG-Pic3.png)
-
-- **Vilarejo**:
-  Fonte: [Link da imagem](https://external-preview.redd.it/zgP_qA-SxzZMrv4ruWTER8H7S5_ayAuMzOHfMTSwS0k.jpg?auto=webp&s=2bfc3f359e1d7ea0540ef167f1846e204e21bdda)
+1. [Template de README - iuricode](https://github.com/iuricode/readme-template)
+2. [Modelo de README - gabrieldejesus](https://github.com/gabrieldejesus/readme-model)
+3. [Creative Commons - Chooser](https://chooser-beta.creativecommons.org/)
